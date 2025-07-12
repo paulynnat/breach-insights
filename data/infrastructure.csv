@@ -1,0 +1,9 @@
+Platform Type,Cases Observed,Example Breach
+CRM System,6,Unencrypted client records
+Email Server,9,Phished credentials
+Cloud Drive,4,Misconfigured access rights
+Point-of-Sale (POS),3,Payment data exposed
+Web Database,5,SQL injection exposure
+Internal Git Repo,2,Token leak in repo
+Shared Drive,3,Overshared folders
+Unsecured Webform,4,Webform without HTTPS
