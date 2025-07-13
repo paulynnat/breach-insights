@@ -60,3 +60,15 @@ This updates all CSV datasets and visual charts in /data/ and /visuals/.
 - Enhance jurisdiction_compare.py with penalty scales and taxonomy divergence
 - Add modules for enforcement severity modeling and breach archetype clustering
 - Embed dashboard into Streamlit or Observable for public intelligence observatory
+
+📊 Background to dashboard creation
+An initial exploratory analysis of six distinct breach-related use cases, using an event study methodology was conducted to assess whether market reactions around breach disclosures indicate statistical significance and whether insights could be drawn.
+
+🧠 Key Insight
+Despite applying conventional event study models, the results do not show statistically significant reactions across the sample. This absence of significance highlights potential limitations in traditional modeling frameworks—and suggests:
+- Either market efficiency (events were priced in or not considered material),
+- Or model limitations (event windows, benchmarks, or estimation methods may dilute observable impact),
+- Or a more complex, delayed response that the event study framework doesn't capture well.
+
+🔍 Research Directions
+The results shows why there's still room for research and opens new pathways for exploration >>> Breach Insights 
