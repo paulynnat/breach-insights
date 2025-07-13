@@ -1,0 +1,7 @@
+Tag A,No 2FA / MFA Enforcement,No MFA,Password Hygiene Failure,Protection Obligation Breach,Retention Violation,Vendor Oversight Failure,Web Portal Misconfiguration
+CRM System Exposure,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Development Environment Exposure,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Dormant Credential Exposure,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+No 2FA / MFA Enforcement,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+No MFA,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Protection Obligation Breach,0.0,0.0,0.0,0.0,1.0,1.0,0.0
