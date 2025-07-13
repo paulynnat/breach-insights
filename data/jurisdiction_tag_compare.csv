@@ -1,0 +1,10 @@
+Jurisdiction,Tag,Count
+EU,Hardcoded Credentials,1
+EU,No MFA,1
+EU,Protection Breach,1
+France,Retention Violation,1
+France,Unencrypted Backup,1
+Singapore,Dormant Credentials,1
+Singapore,No MFA,2
+Singapore,Protection Breach,2
+Singapore,Vendor Oversight,1
