@@ -1,4 +1,4 @@
-// story.js â€” load a story from data/stories.json and render narrative sections with inline visuals.
+// story.js - load a story from data/stories.json and render narrative sections with inline visuals.
 // Usage: open story.html?story=story-id
 
 async function fetchJSON(path){
