@@ -1,0 +1,44 @@
+﻿[
+  {
+    "id": "sample-breach",
+    "title": "Understanding the Breach Timeline",
+    "subtitle": "A short narrative that walks through incident counts, severity and source datasets.",
+    "meta": "Updated: 2025-12-10 â€” Data sources: visuals/ folder",
+    "sections": [
+      {
+        "title": "Credential hygiene",
+        "text": "Summary of credential hygiene issues found across incidents.",
+        "viz": {
+          "type": "image",
+          "path": "visuals/credential_hygiene_chart.png",
+          "caption": "Credential hygiene chart",
+          "download": "visuals/credential_hygiene_chart.png",
+          "source": ""
+        }
+      },
+      {
+        "title": "Taxonomy frequency",
+        "text": "Distribution of taxonomy tags across the dataset.",
+        "viz": {
+          "type": "image",
+          "path": "visuals/taxonomy_frequency.png",
+          "caption": "Taxonomy frequency",
+          "download": "visuals/taxonomy_frequency.png",
+          "source": ""
+        }
+      },
+      {
+        "title": "Co-occurrence matrix",
+        "text": "Co-occurrence matrix showing relationships between categories/tags.",
+        "viz": {
+          "type": "image",
+          "path": "visuals/cooccurrence_matrix.png",
+          "caption": "Co-occurrence matrix",
+          "download": "visuals/cooccurrence_matrix.png",
+          "source": "visuals/vendor_flow.html"
+        }
+      }
+    ],
+    "citation": "Breach Insights dataset v1.0"
+  }
+]
