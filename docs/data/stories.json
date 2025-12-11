@@ -1,9 +1,9 @@
-﻿[
+[
   {
     "id": "sample-breach",
     "title": "Understanding the Breach Timeline",
     "subtitle": "A short narrative that walks through incident counts, severity and source datasets.",
-    "meta": "Updated: 2025-12-10 â€” Data sources: visuals/ folder",
+    "meta": "Updated: 2025-12-10 — Data sources: visuals/ folder",
     "sections": [
       {
         "title": "Credential hygiene",
